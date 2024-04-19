@@ -20,3 +20,5 @@ chflags -R noschg,noschange,nosimmutable '/var/MobileSoftwareUpdate/MobileAsset/
 2. Download [Apple TV Profile](https://github.com/RichardTMiles/Block-OTA/raw/main/17.mobileconfig)
 3. Select "Allow" then Open Settings & Go to General -> Profile or Device Management
 4. Tap on the tvOS Beta Profile & Tap "Install" & Restart you device
+
+This will enevitablly remove the "update available tab" though it did take several hours and me revisiting the tab. Even with the 'main' settings page showing X version available, clicking into the settings page would show none available. After probably 2-3 hours the 'main' message also went away!
