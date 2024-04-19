@@ -17,6 +17,6 @@ chflags -R noschg,noschange,nosimmutable '/var/MobileSoftwareUpdate/MobileAsset/
 ```
 ## Method 4
 1. Set your device's date to any point before December 14th, 2023
-2. Download [Apple TV Profile](https://static.itsnebula.net/apple/noota/17.mobileconfig)
+2. Download [Apple TV Profile](https://github.com/RichardTMiles/Block-OTA/raw/main/17.mobileconfig)
 3. Select "Allow" then Open Settings & Go to General -> Profile or Device Management
 4. Tap on the tvOS Beta Profile & Tap "Install" & Restart you device
